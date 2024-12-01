@@ -51,7 +51,7 @@ In Souss-Massa, a vital hub for Moroccan agriculture with **20,000 hectares of g
 - **Python Scripts**: Automate backend tasks (e.g., periodic updates on PythonAnywhere).  
 - **Flask + ngrok**: API for chatbot and real-time recommendations.
   
-  ### **IRRIGOClassifier system**
+### **IRRIGOClassifier system**
   ![image](https://github.com/user-attachments/assets/e47098ef-0d09-40c6-94a4-980761dbb63d)
 
 ### **IRRIGO CHAT**
