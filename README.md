@@ -70,7 +70,8 @@ In Souss-Massa, a vital hub for Moroccan agriculture with **20,000 hectares of g
 
 2. **Data Flow**:  
    - **Sensor Data** → **ESP32 Transmitter** → **ESP32 Server** → **Firebase** → **ESP32 Receiver** → **Irrigation**
-   - ![image](https://github.com/user-attachments/assets/ba617513-7721-41d1-9a79-80eb13bbfe5e)
+   ![image](https://github.com/user-attachments/assets/1ce67d06-8e80-4c6b-8174-f4eaff0b9513)
+
 
 
 3. **Automation**:  
